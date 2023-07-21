@@ -2,4 +2,4 @@ plugin: servicenow.itsm.now
 enhanced: false
 table: cmdb_ci_server
 query:
-  - department: "{{ DEPT_SEARCH  }}"
+  - department: '{{ DEPT_SEARCH }}'
