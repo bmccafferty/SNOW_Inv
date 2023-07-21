@@ -1,5 +1,3 @@
 plugin: servicenow.itsm.now
 table: cmdb_ci_server
-query:
-  - name: STARTSWITH lnux
 
